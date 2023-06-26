@@ -1,6 +1,11 @@
 body {
   font-family: "Inter", sans-serif;
   background-color: #E4EEF1;
+  cursor: url("../../assets/img/cursor-default.cur"), default;
+}
+
+a {
+  cursor: url("../../assets/img/cursor-pointer.cur"), pointer;
 }
 
 .container {
