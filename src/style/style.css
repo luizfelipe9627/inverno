@@ -1,0 +1,17 @@
+/* Global */
+@import url('./common/global.css');
+@import url('./common/reset.css');
+
+/* Tipografia */
+@import url('../fonts/font.css');
+
+/* Header */
+@import url('./partials/header.css');
+
+/* Sections */
+@import url('./partials/inverno.css');
+@import url('./partials/informacoes.css');
+@import url('./partials/galeria.css');
+
+/* Footer */
+@import url('./partials/footer.css');

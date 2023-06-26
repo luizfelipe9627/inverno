@@ -1,0 +1,32 @@
+.header {
+  background-color: #4B93BF;
+  padding: 20px 65px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo h1 {
+  margin-left: 30px;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+.itens {
+  display: flex; 
+}
+
+.itens li a {
+  color: #FFF;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  text-transform: uppercase;
+  margin-left: 60px;
+  text-decoration: none;
+}

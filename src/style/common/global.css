@@ -1,0 +1,12 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #E4EEF1;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 40px 65px;
+}
