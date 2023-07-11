@@ -5,6 +5,9 @@
 <img src="https://github.com/luizfelipe9627/inverno-vnw/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do desafio do Vai na Web">
 
 ## 📄 Descrição
+O inverno é um site na qual passa informações importantes sobre o inverno.
+
+## 📑 Observação
 
 Neste desafio foi criado um site na qual passa informações sobre o inverno. Foi usado Flexbox para práticar o que foi revisado e passado nas aulas.
 
