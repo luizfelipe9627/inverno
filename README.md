@@ -2,16 +2,15 @@
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/luizfelipe9627/inverno-vnw/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do desafio do Vai na Web">
+<img src="https://github.com/luizfelipe9627/inverno/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do desafio do Vai na Web">
 
 ## 📄 Descrição
 O inverno é um site na qual passa informações importantes sobre o inverno.
 
 ## 📑 Observação
-
 Neste desafio foi criado um site na qual passa informações sobre o inverno. Foi usado Flexbox para práticar o que foi revisado e passado nas aulas.
 
-### <a href="https://luizfelipe9627-inverno-vnw.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-inverno.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
